@@ -1,0 +1,22 @@
+https://github.com/Genaldo44/dio-desafio-github-first-repositorio-lopes.git
+
+Link para Download do Git - https://git-scm.com/download/linux
+
+Descrição - Console/terminal extendido para otimizar o uso do GIT com linha de comando 
+
+Comandos Essenciais - Git/GitHub (na ordem que aparecem)
+
+git clone "link do git" - // Clona o repositorio //
+
+cd "nome da pasta" - // acessa a pasta desejada //
+
+git status - // Verifica se alguma alteração no repositório //
+
+git ./ -a/ */ - // ao ver alterar no status, prepare para commitar (atualiza local) //
+
+git commit - m "comentar a alteração"
+
+clear - // limpa a tela de comandos //
+
+
+
