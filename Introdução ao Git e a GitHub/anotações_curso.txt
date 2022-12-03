@@ -16,6 +16,7 @@ git ./ -a/ */ - // ao ver alterar no status, prepare para commitar (atualiza loc
 
 git commit - m "comentar a alteração"
 
+git push origin main - // push (empurrar as alterações para o cloud - GitHub//
 clear - // limpa a tela de comandos //
 
 
